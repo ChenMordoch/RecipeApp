@@ -1,0 +1,19 @@
+[
+  {
+    "name": "chocolate chip cookies",
+    "picture": "https://www.oogio.net/wp-content/uploads/2020/06/bens-cookies-chocolate-praline-copycat-s.jpg",
+    "description": "Chocolate chip cookies with dark chocolate",
+    "ingredients": [
+      "butter",
+      "sugar",
+      "light brown sugar",
+      "pure vanilla extract",
+      "eggs",
+      "baking powder",
+      "flour",
+      "chocolate chip"
+    ],
+    "Instructions": "Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside.\nIn a separate bowl mix flour, baking soda, salt, baking powder. Set aside.\nCream together butter and sugars until combined.\nBeat in eggs and vanilla until fluffy.\nMix in the dry ingredients until combined.\nAdd 12 oz package of chocolate chips and mix well.\nRoll 2-3 TBS (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets. (alternately, use a small cookie scoop to make your cookies).\nBake in preheated oven for approximately 8-10 minutes. Take them out when they are just BARELY starting to turn brown.\nLet them sit on the baking pan for 2 minutes before removing to cooling rack.",
+    "favorite": false
+  }
+]
